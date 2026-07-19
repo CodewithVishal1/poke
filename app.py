@@ -27,7 +27,7 @@ st.sidebar.title("Navigation")
 page = st.sidebar.radio("Go to:", ["1. Intro & Overview", "2. Data Preview", "3. EDA & Visuals", "4. Model Performance", "5. Live Prediction"])
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("**Sakthivel RAJENDRAN**")
+st.sidebar.markdown("**VISHAL RAMESH**")
 st.sidebar.markdown("*2509_A_P4DSBI_P_FGA 8E076A*")
 st.sidebar.markdown("*Python for Data Science*")
 st.sidebar.markdown(f"*Last Updated: {date.today().strftime('%B %d, %Y')}*")
